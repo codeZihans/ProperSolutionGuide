@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSG.BusinessLogicLayer", "PSG.BusinessLogicLayer\PSG.BusinessLogicLayer.csproj", "{3AC2FE02-AEAF-4896-9D11-2253FBB4D1F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSG.DataAccessLayer", "PSG.DataAccessLayer\PSG.DataAccessLayer.csproj", "{F36DFD70-91F5-4415-A345-9734026C4E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSG.Mvc", "PSG.Mvc\PSG.Mvc.csproj", "{465C86EA-C9A8-4604-8A67-0909F0918759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC2FE02-AEAF-4896-9D11-2253FBB4D1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC2FE02-AEAF-4896-9D11-2253FBB4D1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC2FE02-AEAF-4896-9D11-2253FBB4D1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC2FE02-AEAF-4896-9D11-2253FBB4D1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36DFD70-91F5-4415-A345-9734026C4E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36DFD70-91F5-4415-A345-9734026C4E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36DFD70-91F5-4415-A345-9734026C4E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36DFD70-91F5-4415-A345-9734026C4E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465C86EA-C9A8-4604-8A67-0909F0918759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465C86EA-C9A8-4604-8A67-0909F0918759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465C86EA-C9A8-4604-8A67-0909F0918759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465C86EA-C9A8-4604-8A67-0909F0918759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
